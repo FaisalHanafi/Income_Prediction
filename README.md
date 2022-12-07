@@ -1,2 +1,2 @@
 # Income_Prediction
-A python-based prediction system 
+A python-based income prediction system 
