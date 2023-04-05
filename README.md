@@ -35,6 +35,20 @@ The dataset used in this project is the Adult dataset from the UCI Machine Learn
     Train XGBoost and LightGBM models and evaluate them using mean squared error (MSE).
     Visualize the comparison of the two models using matplotlib.
     
-#License
+# Future Improvements
+
+    Improve the GUI: Improve the GUI: The GUI is currently functional, but it can be improved in terms of user interface 
+    and user experience. More features, such as input validation, progress bars, and improved error handling, can improve 
+    the application's usability.
+
+    Include more models: While XGBoost and LightGBM are both powerful machine learning models, there are many other models 
+    that could potentially outperform them on this dataset. Future enhancements may include the addition of additional 
+    models and a comparison of their performance to the current models.
+
+    Hyperparameter tuning: The current models were trained with the default hyperparameters. However, hyperparameter tuning 
+    can help to improve model performance. Implementing a hyperparameter tuning algorithm, such as grid search or random 
+    search, to find the best hyperparameters for the models, could be a future improvement.
+    
+# License
 
 This project is licensed under the MIT License.
